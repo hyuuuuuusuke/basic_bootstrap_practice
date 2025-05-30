@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Applications/MAMP/htdocs/yusuke-php"
+		},
+		{
+			"path": "../bootcamp"
+		},
+		{
+			"path": "../coffee-bean"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../blog-portfolio"
+		},
+		{
+			"path": "../table-bootstrap"
+		},
+		{
+			"path": "../navbar"
+		},
+		{
+			"path": "../forms"
+		}
+	],
+	"settings": {}
+}
